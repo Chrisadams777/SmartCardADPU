@@ -25,7 +25,6 @@ Java Development Kit (JDK) 8 or higher: Ensure that the JDK is installed and con
 Smart Card Reader: A compatible smart card reader connected to your system.
 ### Clone the Repository
 ```bash
-# This is a bash code block
 git clone https://github.com/yourusername/SmartCardAPDU.git
 cd SmartCardAPDU
 ```
@@ -56,7 +55,6 @@ In IntelliJ IDEA: File > Project Structure > Artifacts > + > JAR > From modules 
 In Eclipse: File > Export > Java > JAR file.
 Run the JAR file from the command line:
 ```Java
-# This is a java code block
 java -jar SmartCardAPDU.jar
 ```
 ## Contributing
