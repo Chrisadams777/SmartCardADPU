@@ -28,6 +28,7 @@ Smart Card Reader: A compatible smart card reader connected to your system.
 # This is a bash code block
 git clone https://github.com/yourusername/SmartCardAPDU.git
 cd SmartCardAPDU
+```
 ### Import the Project into Your IDE
 Open your preferred IDE (IntelliJ IDEA, Eclipse, etc.).
 Import the project as a Java project.
@@ -57,6 +58,7 @@ Run the JAR file from the command line:
 ```Java
 # This is a java code block
 java -jar SmartCardAPDU.jar
+```
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
