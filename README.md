@@ -25,7 +25,7 @@ Java Development Kit (JDK) 8 or higher: Ensure that the JDK is installed and con
 Smart Card Reader: A compatible smart card reader connected to your system.
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/SmartCardAPDU.git
+git clone https://github.com/Chrisadams777/SmartCardADPU.git
 cd SmartCardAPDU
 ```
 ### Import the Project into Your IDE
